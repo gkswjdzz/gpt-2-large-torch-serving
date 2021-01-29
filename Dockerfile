@@ -1,2 +1,2 @@
-FROM gkswjdzz/gpt-2-large-torch-serving
+FROM gkswjdzz/gpt2-large_0.3.0_pre
 
